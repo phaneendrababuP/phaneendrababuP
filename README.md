@@ -22,7 +22,7 @@ I am a QA Engineer with four years of experience building and delivering automat
 
 ## Selected Projects
 
-- `typescript-sdet-reference`: reference repository for TypeScript examples and automation patterns.
+- psyhire-e2e: Playwright + TypeScript automation suite for PsyHire — candidate screening and hiring platform. Covers UI automation, REST API testing, and AI feature validation.
 
 ## Experience Summary
 
