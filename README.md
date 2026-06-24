@@ -21,7 +21,7 @@ I am a QA Engineer with four years of experience building and delivering automat
 
 ## Selected Projects
 
-- psyhire-e2e: Playwright + TypeScript automation suite for PsyHire — candidate screening and hiring platform. Covers UI automation, REST API testing, and AI feature validation.
+- hiresync-e2e: Playwright + TypeScript automation suite for a candidate screening and hiring platform. Covers UI automation, REST API testing, and AI feature output validation.
 
 ## Experience Summary
 
