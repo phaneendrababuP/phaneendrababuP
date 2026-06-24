@@ -1,7 +1,6 @@
 # Phaneendra Babu P
 
-QA Engineer | SDET | Playwright | TypeScript | API Automation
-Hyderabad, India | Open to remote and pan-India opportunities
+QA Engineer | SDET | Playwright | TypeScript | API Automation | Open to on-site, hybrid, remote and pan-India opportunities
 
 Email: pphaneendra.1996@gmail.com
 LinkedIn: https://linkedin.com/in/phaneendrababup
